@@ -1,0 +1,14 @@
+{
+  "login": {
+
+  "user": "pushingit",
+    "password": "123456!"
+},
+
+  "newProduct": {
+    "name": "Blazer",
+    "price": "90.00",
+    "image": "https://hmperu.vtexassets.com/arquivos/ids/3761609-600-900?v=638256173342300000&width=600&height=900&aspect=true",
+    "id": 200
+  }
+}
